@@ -7,6 +7,7 @@ Gem::Specification.new do |s|
   s.description = <<-EOS
     A stackable dynamic tree based Rack router.
   EOS
+  s.license     = "MIT"
 
   s.files = Dir["README.rdoc", "LICENSE", "lib/**/*.rb"]
 
